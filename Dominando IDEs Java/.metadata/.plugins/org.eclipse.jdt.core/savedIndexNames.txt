@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Amanda2\Downloads\estudos\Digital Inovation One\bootcamp-dio-gft-start-woman-java\Dominando IDEs Java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
